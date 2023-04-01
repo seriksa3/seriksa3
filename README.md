@@ -4,4 +4,4 @@
 -  I’m looking to collaborate on Front-end Projects.All things Node, React, JSX etc....
 -  How to reach me @ [LinkedIn]([url](https://www.linkedin.com/in/kelly-serika-1272661a4/))
 ## Skills Learnt
-[HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=RED)
+[alt-text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=RED)
